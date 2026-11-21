@@ -1,0 +1,7 @@
+Label,Original (%),Full Training (%),Sampled Training (%),Validation (%),Internal Test (%)
+toxic,9.584,9.584,31.448,9.573,9.598
+severe_toxic,1.0,1.0,3.281,0.999,0.999
+obscene,5.295,5.296,17.378,5.29,5.294
+threat,0.3,0.3,0.984,0.301,0.297
+insult,4.936,4.936,16.197,4.939,4.935
+identity_hate,0.88,0.879,2.885,0.89,0.877

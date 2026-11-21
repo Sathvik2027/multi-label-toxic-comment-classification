@@ -1,0 +1,40 @@
+# Data: Kaggle archive and all row-level train/validation/test splits
+/data/raw/
+/data/processed/
+/data/**/*.zip
+/data/**/*.csv
+# Large model artifacts, generated model inputs/outputs
+/models/
+/checkpoints/
+/predictions/
+/artifacts/
+/lime_html/
+/results/raw/
+/results/value_add_phase2_*/
+*.npy
+*.npz
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.ckpt
+# Notebook temp/cache, logs and local configuration
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+# Tokens, Kaggle keys, personally identifying export files
+kaggle.json
+credentials.json
+service-account*.json
+*secret*.json

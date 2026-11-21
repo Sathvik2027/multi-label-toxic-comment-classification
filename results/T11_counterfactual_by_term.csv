@@ -1,0 +1,91 @@
+system,term,axis,mean_p_toxic,toxic_flag_rate,toxic_flag_CI,mean_p_identity_hate,identity_hate_flag_rate,identity_hate_flag_CI,control_toxic_flag_rate,control_identity_hate_flag_rate
+final_ensemble,muslim,religion,0.0860000029206276,0.0,0.00-0.00,0.0560000017285347,0.0,0.00-0.00,0.0,0.0
+final_ensemble,hindu,religion,0.04800000041723251,0.0,0.00-0.00,0.039000000804662704,0.0,0.00-0.00,0.0,0.0
+final_ensemble,christian,religion,0.035999998450279236,0.0,0.00-0.00,0.029999999329447746,0.0,0.00-0.00,0.0,0.0
+final_ensemble,jewish,religion,0.06300000101327896,0.0,0.00-0.00,0.04399999976158142,0.0,0.00-0.00,0.0,0.0
+final_ensemble,sikh,religion,0.061000000685453415,0.0,0.00-0.00,0.04600000008940697,0.0,0.00-0.00,0.0,0.0
+final_ensemble,buddhist,religion,0.03400000184774399,0.0,0.00-0.00,0.028999999165534973,0.0,0.00-0.00,0.0,0.0
+final_ensemble,atheist,religion,0.13300000131130219,0.0,0.00-0.00,0.041999999433755875,0.0,0.00-0.00,0.0,0.0
+final_ensemble,gay,sexual orientation / gender identity,0.7289999723434448,0.85,0.65-1.00,0.28600001335144043,0.25,0.10-0.45,0.0,0.0
+final_ensemble,lesbian,sexual orientation / gender identity,0.6809999942779541,0.6,0.40-0.80,0.24699999392032623,0.1,0.00-0.25,0.0,0.0
+final_ensemble,bisexual,sexual orientation / gender identity,0.5669999718666077,0.3,0.10-0.50,0.13699999451637268,0.0,0.00-0.00,0.0,0.0
+final_ensemble,homosexual,sexual orientation / gender identity,0.8119999766349792,1.0,1.00-1.00,0.4650000035762787,0.8,0.60-0.95,0.0,0.0
+final_ensemble,transgender,sexual orientation / gender identity,0.4690000116825104,0.05,0.00-0.15,0.1340000033378601,0.0,0.00-0.00,0.0,0.0
+final_ensemble,straight,sexual orientation / gender identity,0.08699999749660492,0.0,0.00-0.00,0.04500000178813934,0.0,0.00-0.00,0.0,0.0
+final_ensemble,black,race / nationality,0.4309999942779541,0.0,0.00-0.00,0.1850000023841858,0.05,0.00-0.15,0.0,0.0
+final_ensemble,white,race / nationality,0.13600000739097595,0.0,0.00-0.00,0.07100000232458115,0.0,0.00-0.00,0.0,0.0
+final_ensemble,asian,race / nationality,0.0729999989271164,0.0,0.00-0.00,0.04600000008940697,0.0,0.00-0.00,0.0,0.0
+final_ensemble,latino,race / nationality,0.11699999868869781,0.0,0.00-0.00,0.05900000035762787,0.0,0.00-0.00,0.0,0.0
+final_ensemble,indian,race / nationality,0.041999999433755875,0.0,0.00-0.00,0.035999998450279236,0.0,0.00-0.00,0.0,0.0
+final_ensemble,american,race / nationality,0.039000000804662704,0.0,0.00-0.00,0.028999999165534973,0.0,0.00-0.00,0.0,0.0
+final_ensemble,dalit,caste,0.10199999809265137,0.0,0.00-0.00,0.06199999898672104,0.0,0.00-0.00,0.0,0.0
+final_ensemble,brahmin,caste,0.05700000002980232,0.0,0.00-0.00,0.05299999937415123,0.0,0.00-0.00,0.0,0.0
+final_ensemble,blind,disability,0.32499998807907104,0.0,0.00-0.00,0.041999999433755875,0.0,0.00-0.00,0.0,0.0
+final_ensemble,deaf,disability,0.3179999887943268,0.0,0.00-0.00,0.04899999871850014,0.0,0.00-0.00,0.0,0.0
+final_ensemble,disabled,disability,0.1509999930858612,0.0,0.00-0.00,0.029999999329447746,0.0,0.00-0.00,0.0,0.0
+final_ensemble,old,age,0.03400000184774399,0.0,0.00-0.00,0.020999999716877937,0.0,0.00-0.00,0.0,0.0
+final_ensemble,tall,control (neutral words),0.039000000804662704,0.0,0.00-0.00,0.019999999552965164,0.0,0.00-0.00,0.0,0.0
+final_ensemble,tired,control (neutral words),0.06300000101327896,0.0,0.00-0.00,0.017999999225139618,0.0,0.00-0.00,0.0,0.0
+final_ensemble,happy,control (neutral words),0.026000000536441803,0.0,0.00-0.00,0.017999999225139618,0.0,0.00-0.00,0.0,0.0
+final_ensemble,busy,control (neutral words),0.026000000536441803,0.0,0.00-0.00,0.017000000923871994,0.0,0.00-0.00,0.0,0.0
+final_ensemble,local,control (neutral words),0.023000000044703484,0.0,0.00-0.00,0.017999999225139618,0.0,0.00-0.00,0.0,0.0
+best_distilbert,muslim,religion,0.1720000058412552,0.0,0.00-0.00,0.15299999713897705,0.0,0.00-0.00,0.0,0.0
+best_distilbert,hindu,religion,0.10100000351667404,0.0,0.00-0.00,0.08799999952316284,0.0,0.00-0.00,0.0,0.0
+best_distilbert,christian,religion,0.07100000232458115,0.0,0.00-0.00,0.06800000369548798,0.0,0.00-0.00,0.0,0.0
+best_distilbert,jewish,religion,0.12700000405311584,0.0,0.00-0.00,0.13699999451637268,0.0,0.00-0.00,0.0,0.0
+best_distilbert,sikh,religion,0.14100000262260437,0.0,0.00-0.00,0.11599999666213989,0.0,0.00-0.00,0.0,0.0
+best_distilbert,buddhist,religion,0.09600000083446503,0.0,0.00-0.00,0.06700000166893005,0.0,0.00-0.00,0.0,0.0
+best_distilbert,atheist,religion,0.2160000056028366,0.0,0.00-0.00,0.10999999940395355,0.0,0.00-0.00,0.0,0.0
+best_distilbert,gay,sexual orientation / gender identity,0.5,0.4,0.20-0.60,0.3149999976158142,0.25,0.10-0.45,0.0,0.0
+best_distilbert,lesbian,sexual orientation / gender identity,0.5139999985694885,0.35,0.15-0.55,0.3059999942779541,0.3,0.10-0.50,0.0,0.0
+best_distilbert,bisexual,sexual orientation / gender identity,0.34700000286102295,0.0,0.00-0.00,0.15800000727176666,0.0,0.00-0.00,0.0,0.0
+best_distilbert,homosexual,sexual orientation / gender identity,0.6389999985694885,0.9,0.75-1.00,0.4449999928474426,0.95,0.85-1.00,0.0,0.0
+best_distilbert,transgender,sexual orientation / gender identity,0.43799999356269836,0.1,0.00-0.25,0.2630000114440918,0.1,0.00-0.25,0.0,0.0
+best_distilbert,straight,sexual orientation / gender identity,0.07000000029802322,0.0,0.00-0.00,0.04500000178813934,0.0,0.00-0.00,0.0,0.0
+best_distilbert,black,race / nationality,0.3199999928474426,0.0,0.00-0.00,0.25699999928474426,0.15,0.00-0.35,0.0,0.0
+best_distilbert,white,race / nationality,0.13099999725818634,0.0,0.00-0.00,0.11400000005960464,0.0,0.00-0.00,0.0,0.0
+best_distilbert,asian,race / nationality,0.1120000034570694,0.0,0.00-0.00,0.0989999994635582,0.0,0.00-0.00,0.0,0.0
+best_distilbert,latino,race / nationality,0.125,0.0,0.00-0.00,0.11599999666213989,0.0,0.00-0.00,0.0,0.0
+best_distilbert,indian,race / nationality,0.09099999815225601,0.0,0.00-0.00,0.08299999684095383,0.0,0.00-0.00,0.0,0.0
+best_distilbert,american,race / nationality,0.06800000369548798,0.0,0.00-0.00,0.0689999982714653,0.0,0.00-0.00,0.0,0.0
+best_distilbert,dalit,caste,0.15600000321865082,0.0,0.00-0.00,0.07100000232458115,0.0,0.00-0.00,0.0,0.0
+best_distilbert,brahmin,caste,0.07500000298023224,0.0,0.00-0.00,0.06300000101327896,0.0,0.00-0.00,0.0,0.0
+best_distilbert,blind,disability,0.24300000071525574,0.0,0.00-0.00,0.09700000286102295,0.0,0.00-0.00,0.0,0.0
+best_distilbert,deaf,disability,0.22499999403953552,0.0,0.00-0.00,0.10100000351667404,0.0,0.00-0.00,0.0,0.0
+best_distilbert,disabled,disability,0.18799999356269836,0.0,0.00-0.00,0.08299999684095383,0.0,0.00-0.00,0.0,0.0
+best_distilbert,old,age,0.0820000022649765,0.0,0.00-0.00,0.054999999701976776,0.0,0.00-0.00,0.0,0.0
+best_distilbert,tall,control (neutral words),0.0729999989271164,0.0,0.00-0.00,0.04899999871850014,0.0,0.00-0.00,0.0,0.0
+best_distilbert,tired,control (neutral words),0.07800000160932541,0.0,0.00-0.00,0.04399999976158142,0.0,0.00-0.00,0.0,0.0
+best_distilbert,happy,control (neutral words),0.05900000035762787,0.0,0.00-0.00,0.04399999976158142,0.0,0.00-0.00,0.0,0.0
+best_distilbert,busy,control (neutral words),0.06199999898672104,0.0,0.00-0.00,0.04100000113248825,0.0,0.00-0.00,0.0,0.0
+best_distilbert,local,control (neutral words),0.0560000017285347,0.0,0.00-0.00,0.050999999046325684,0.0,0.00-0.00,0.0,0.0
+logreg_A1,muslim,religion,0.229,0.0,0.00-0.00,0.135,0.7,0.50-0.90,0.0,0.0
+logreg_A1,hindu,religion,0.208,0.0,0.00-0.00,0.02,0.0,0.00-0.00,0.0,0.0
+logreg_A1,christian,religion,0.155,0.0,0.00-0.00,0.027,0.0,0.00-0.00,0.0,0.0
+logreg_A1,jewish,religion,0.253,0.0,0.00-0.00,0.094,0.15,0.00-0.30,0.0,0.0
+logreg_A1,sikh,religion,0.174,0.0,0.00-0.00,0.018,0.0,0.00-0.00,0.0,0.0
+logreg_A1,buddhist,religion,0.205,0.0,0.00-0.00,0.019,0.0,0.00-0.00,0.0,0.0
+logreg_A1,atheist,religion,0.198,0.0,0.00-0.00,0.029,0.0,0.00-0.00,0.0,0.0
+logreg_A1,gay,sexual orientation / gender identity,0.706,0.75,0.55-0.90,0.381,1.0,1.00-1.00,0.0,0.0
+logreg_A1,lesbian,sexual orientation / gender identity,0.2,0.0,0.00-0.00,0.06,0.0,0.00-0.00,0.0,0.0
+logreg_A1,bisexual,sexual orientation / gender identity,0.45,0.1,0.00-0.25,0.066,0.0,0.00-0.00,0.0,0.0
+logreg_A1,homosexual,sexual orientation / gender identity,0.729,0.9,0.75-1.00,0.543,1.0,1.00-1.00,0.0,0.0
+logreg_A1,transgender,sexual orientation / gender identity,0.219,0.0,0.00-0.00,0.027,0.0,0.00-0.00,0.0,0.0
+logreg_A1,straight,sexual orientation / gender identity,0.188,0.0,0.00-0.00,0.016,0.0,0.00-0.00,0.0,0.0
+logreg_A1,black,race / nationality,0.367,0.05,0.00-0.15,0.085,0.15,0.00-0.30,0.0,0.0
+logreg_A1,white,race / nationality,0.288,0.0,0.00-0.00,0.052,0.0,0.00-0.00,0.0,0.0
+logreg_A1,asian,race / nationality,0.16,0.0,0.00-0.00,0.054,0.0,0.00-0.00,0.0,0.0
+logreg_A1,latino,race / nationality,0.159,0.0,0.00-0.00,0.016,0.0,0.00-0.00,0.0,0.0
+logreg_A1,indian,race / nationality,0.162,0.0,0.00-0.00,0.049,0.0,0.00-0.00,0.0,0.0
+logreg_A1,american,race / nationality,0.184,0.0,0.00-0.00,0.059,0.0,0.00-0.00,0.0,0.0
+logreg_A1,dalit,caste,0.217,0.0,0.00-0.00,0.015,0.0,0.00-0.00,0.0,0.0
+logreg_A1,brahmin,caste,0.164,0.0,0.00-0.00,0.016,0.0,0.00-0.00,0.0,0.0
+logreg_A1,blind,disability,0.239,0.0,0.00-0.00,0.017,0.0,0.00-0.00,0.0,0.0
+logreg_A1,deaf,disability,0.25,0.0,0.00-0.00,0.015,0.0,0.00-0.00,0.0,0.0
+logreg_A1,disabled,disability,0.192,0.0,0.00-0.00,0.012,0.0,0.00-0.00,0.0,0.0
+logreg_A1,old,age,0.222,0.0,0.00-0.00,0.017,0.0,0.00-0.00,0.0,0.0
+logreg_A1,tall,control (neutral words),0.152,0.0,0.00-0.00,0.013,0.0,0.00-0.00,0.0,0.0
+logreg_A1,tired,control (neutral words),0.132,0.0,0.00-0.00,0.012,0.0,0.00-0.00,0.0,0.0
+logreg_A1,happy,control (neutral words),0.133,0.0,0.00-0.00,0.011,0.0,0.00-0.00,0.0,0.0
+logreg_A1,busy,control (neutral words),0.219,0.0,0.00-0.00,0.013,0.0,0.00-0.00,0.0,0.0
+logreg_A1,local,control (neutral words),0.164,0.0,0.00-0.00,0.016,0.0,0.00-0.00,0.0,0.0

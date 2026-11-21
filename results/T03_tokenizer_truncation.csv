@@ -1,0 +1,5 @@
+Max Length,DistilBERT Truncated (%),RoBERTa Truncated (%)
+128,18.51,18.69
+192,10.38,10.5
+256,6.4,6.44
+512,1.86,1.99

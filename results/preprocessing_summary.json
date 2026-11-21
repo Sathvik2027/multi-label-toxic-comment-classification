@@ -1,0 +1,15 @@
+{
+    "random_seed": 42,
+    "original_records": 159571,
+    "unique_normalized_groups": 159313,
+    "train_full_records": 111707,
+    "validation_records": 23932,
+    "internal_test_records": 23932,
+    "positive_training_records": 11348,
+    "clean_training_records_before_sampling": 100359,
+    "clean_training_records_after_sampling": 22696,
+    "sampled_training_records": 34044,
+    "positive_to_clean_ratio": "1:2",
+    "sampling_method": "Training-only clean record undersampling",
+    "group_overlap": 0
+}

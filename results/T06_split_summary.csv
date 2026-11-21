@@ -1,0 +1,6 @@
+part,rows,clean %,toxic,severe_toxic,obscene,threat,insult,identity_hate
+train_full,111707,89.8,10706,1117,5916,335,5514,982
+train_sub,34044,66.7,10706,1117,5916,335,5514,982
+val,23932,89.8,2291,239,1266,72,1182,213
+test_internal,23932,89.8,2297,239,1267,71,1181,210
+test_external,63938,90.2,6089,367,3690,211,3426,712

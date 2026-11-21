@@ -1,0 +1,22 @@
+system,axis,toxic_flag_rate,identity_hate_flag_rate
+best_distilbert,age,0.0,0.0
+best_distilbert,caste,0.0,0.0
+best_distilbert,control (neutral words),0.0,0.0
+best_distilbert,disability,0.0,0.0
+best_distilbert,race / nationality,0.0,0.025
+best_distilbert,religion,0.0,0.0
+best_distilbert,sexual orientation / gender identity,0.292,0.267
+final_ensemble,age,0.0,0.0
+final_ensemble,caste,0.0,0.0
+final_ensemble,control (neutral words),0.0,0.0
+final_ensemble,disability,0.0,0.0
+final_ensemble,race / nationality,0.0,0.008
+final_ensemble,religion,0.0,0.0
+final_ensemble,sexual orientation / gender identity,0.467,0.192
+logreg_A1,age,0.0,0.0
+logreg_A1,caste,0.0,0.0
+logreg_A1,control (neutral words),0.0,0.0
+logreg_A1,disability,0.0,0.0
+logreg_A1,race / nationality,0.008,0.025
+logreg_A1,religion,0.0,0.121
+logreg_A1,sexual orientation / gender identity,0.292,0.333

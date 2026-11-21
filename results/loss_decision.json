@@ -1,0 +1,6 @@
+{
+  "winner_run": "C2_128",
+  "winner_loss": "focal",
+  "val_macro_ap": 0.7333,
+  "plain_bce_val_macro_ap": 0.7283
+}

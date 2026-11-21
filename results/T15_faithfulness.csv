@@ -1,0 +1,14 @@
+n,label,kind,p_original,p_after_top5_removed,drop_top5,drop_random5_mean,flipped_by_top5,flipped_by_random_share
+0,toxic,TP,0.864,0.031,0.833,0.241,True,0.45
+1,obscene,TP,0.786,0.021,0.766,0.127,True,0.2
+2,insult,TP,0.732,0.041,0.692,0.103,True,0.15
+3,threat,TP,0.52,0.014,0.506,0.421,True,0.85
+4,identity_hate,TP,0.523,0.082,0.441,0.038,True,0.15
+5,severe_toxic,TP,0.328,0.012,0.317,0.071,True,0.7
+6,toxic,FP,0.721,0.026,0.695,0.088,True,0.25
+7,toxic,FP,0.806,0.019,0.787,0.217,True,0.4
+8,toxic,FP,0.733,0.016,0.717,0.034,True,0.05
+9,threat,FP,0.323,0.031,0.291,0.115,True,0.7
+10,identity_hate,FP,0.667,0.041,0.626,0.111,True,0.25
+18,toxic,FP_IDENT,0.693,0.025,0.668,0.13,True,0.55
+19,toxic,FP_IDENT,0.726,0.031,0.695,0.527,True,0.9

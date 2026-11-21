@@ -1,0 +1,13 @@
+{
+    "distilbert_model": "distilbert-base-uncased",
+    "roberta_model": "roberta-base",
+    "sample_size": 10000,
+    "random_seed": 42,
+    "candidate_sequence_lengths": [
+        128,
+        192,
+        256,
+        512
+    ],
+    "initial_max_sequence_length": 256
+}

@@ -1,0 +1,7 @@
+label,positives,false_negatives,false_positives
+toxic,2297,412,353
+severe_toxic,239,73,235
+obscene,1267,173,216
+threat,71,27,50
+insult,1181,250,323
+identity_hate,210,79,102

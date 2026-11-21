@@ -1,0 +1,12 @@
+# Not an environment lockfile; record the exact Colab versions used for a paper reproduction.
+numpy
+pandas
+scikit-learn
+scipy
+iterative-stratification
+transformers
+torch
+matplotlib
+seaborn
+lime
+tqdm

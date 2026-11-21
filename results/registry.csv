@@ -1,0 +1,8 @@
+run_id,time,model,max_len,loss,seed,val_macro_AP,val_tuned_macro_F1,best_epoch,notes,runtime_s
+A1,2026-11-12 10:22,"TF-IDF word+char, Logistic Regression (no class weights)",-,-,42,0.6831,0.6639,,,
+A2,2026-11-12 10:22,"TF-IDF word+char, calibrated Linear SVM (no class weights)",-,-,42,0.6715,0.6565,,,
+B1_256,2026-11-13 13:44,distilbert-base-uncased | bce loss,256,bce,42,0.7307,0.6972,3.0,recovery run: resumed from epoch-1 checkpoint with new optimizer,
+B1_128,2026-11-14 01:05,distilbert-base-uncased | bce loss,128,bce,42,0.7283,0.6929,4.0,"clean run, fast pipeline",688.0
+C1_128,2026-11-14 01:22,distilbert-base-uncased | weighted loss,128,weighted,42,0.7314,0.6961,4.0,"weighted BCE, sqrt inverse-frequency pos_weight",664.0
+C2_128,2026-11-14 01:36,distilbert-base-uncased | focal loss,128,focal,42,0.7333,0.6926,3.0,focal loss gamma 2 alpha 0.25,686.0
+R1_128,2026-11-14 02:12,roberta-base | focal loss,128,focal,42,0.7403,0.705,3.0,RoBERTa-base with focal loss,1193.0

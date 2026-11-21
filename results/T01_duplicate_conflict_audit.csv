@@ -1,0 +1,7 @@
+Metric,Value
+Total training records,159571
+Exact duplicate comments,0
+Normalised duplicate rows,258
+Normalised duplicate groups,235
+Consistent annotation groups,194
+Conflicting annotation groups,41

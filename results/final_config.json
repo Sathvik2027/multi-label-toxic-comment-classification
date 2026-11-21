@@ -1,0 +1,19 @@
+{
+  "runs": [
+    "R1_128",
+    "B1_256"
+  ],
+  "thresholds": {
+    "toxic": 0.67,
+    "severe_toxic": 0.31,
+    "obscene": 0.49,
+    "threat": 0.31,
+    "insult": 0.49,
+    "identity_hate": 0.35
+  },
+  "val_macro_AP": 0.7551,
+  "val_macro_F1_tuned": 0.71,
+  "selected_on": "validation only",
+  "rule": "simplest candidate within 0.002 val Macro AP of the best, must include a DistilBERT run",
+  "frozen_at": "2026-11-14 02:20"
+}
